@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/QuestCheck.unity
-    guid: a534d2f3c0164f71be05a416e55ac6b2
+    path: Assets/RCDriftDash/Scenes/MR_Race.unity
+    guid: f98fe0fd8bc2c7f46a319fdcd3f8364e
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7390ea055cc92a44dafc790910d8840a, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 5eee6940276b46e4bb111ed653dd284e, type: 2}
